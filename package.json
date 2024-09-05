@@ -1,0 +1,15 @@
+{
+  "name": "hexlet-test-repo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima",
+  "license": "ISC",
+  "type": "module"
+}
